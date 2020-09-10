@@ -22,26 +22,6 @@ Work experience
 * Fellow, Insight Data Science
 * Graduate researcher, MIT
 
-  
-Skills
-======
-* Probablistic programming
-  * Discrete stochastic simulation
-* Immunology
-  * vaccine design
-* Causal inference
-* Statistics
-  * Bayesian statistics
-  * Inferential statistics
-* AI 
-  * Machine learning
-  * NLP
-  * MLP for regression and classification
-  * Convolutional neural nets
-  * Recurrent neural nets
-  * GANS 
-
-
 Projects
 ======
   <ul>{% for post in site.portfolio %}
@@ -54,5 +34,13 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+Skills
+======
+* Discrete stochastic simulation, vaccine-induced immunology, vaccine design, Causal inference, Bayesian statistics, Inferential statistics
+* Machine learning, NLP, MLP for regression and classification, Convolutional neural nets, Recurrent neural nets, GANS 
+
+
+
   
 
