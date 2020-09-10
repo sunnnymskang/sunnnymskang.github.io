@@ -23,4 +23,4 @@ Using the ratio of the strongest to the weakest binding subsets as a metric of h
 
 [Download paper here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0139222)
 
-#Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[//]: # 'Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).'

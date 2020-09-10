@@ -14,4 +14,4 @@ This work has clinical significance in vaccine design because it is a simple met
 
 [Download paper here](https://www.pnas.org/content/pnas/113/43/E6639.full.pdf)
 
-#Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[//]: # 'Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1)'
