@@ -1,6 +1,6 @@
 ---
 title: "Simulating Antigen dosage and key immune cell kinetics using modified explicit tau-leap Gillespie simulation"
-excerpt: "Throughout my Ph.D. I've studied how vaccine scheduling modulates the antibody titer response. Together with 
+excerpt: "Throughout my Ph.D. I've studied how vaccine scheduling modulates the antibody titer response. 
 Together with with experimental collaborators, we identified a new cellular mechanism that can potentially amplify 
 antibody responses upto 20 times in titers. Based on the mechanistic understanding, 
 I also built a stochastic system that simulates our body’s antibody responses from a vaccine 

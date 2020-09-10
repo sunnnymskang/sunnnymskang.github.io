@@ -22,7 +22,7 @@ Work experience
 * Fellow, Insight Data Science
 * Graduate researcher, MIT
 
-Projects
+portfolio
 ======
   <ul>{% for post in site.portfolio %}
     {% include archive-single-talk-cv.html %}
