@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ''
 date: 2010-10-01
-venue: 'PLoS One'
+venue: ''
 paperurl: ''
 citation: 'Kang, M., T.J. Eisen, E.A. Eisen, A.K. Chakraborty, and H.N. Eisen. 2015. Affinity Inequality among Serum Antibodies That Originate in Lymphoid Germinal Centers. PLoS One. 10:e0139222'
 ---

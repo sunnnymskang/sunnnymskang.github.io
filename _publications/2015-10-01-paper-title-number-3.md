@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: ''
 date: 2020 Aug
-venue: 'arXiv (submitted)'
+venue: ''
 paperurl: ''
 citation: 'Sheshank Shankar, Ayush Chopra, Rishank Kanaparti, Myungsun Kang, Abhishek Singh, Ramesh Raskar. 2020. arXiv'
 ---

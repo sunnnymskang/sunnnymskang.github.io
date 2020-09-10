@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
 date: 2016-10-25
-venue: 'Proceedings of the National Academy of Sciences'
+venue: ''
 paperurl: ''
 citation: 'H.H. Tam, M.B. Melo, M. Kang, J.M. Pelet, V.M. Ruda, M.H. Foley, J.K. Hu, S. Kumari, J. Crampton, A.D. Baldeon, et al.
 Sustained antigen availability during germinal center initiation enhances antibody responses to vaccination
