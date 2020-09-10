@@ -8,3 +8,4 @@ venue: ''
 paperurl: ''
 citation: 'Sheshank Shankar, Ayush Chopra, Rishank Kanaparti, Myungsun Kang, Abhishek Singh, Ramesh Raskar. 2020. arXiv'
 ---
+The TC4TL (Too Close For Too Long) challenge isaimed towards designing an effective proximity sensing algorithmthat can accurately provide exposure notifications. In this paper,we  describe  our  approach  to  model  sensor  and  other  devicelevel  data  to  estimate  distance  between  two  phones.  We  alsopresent our research and data analysis on the TC4TL challengeand discuss various limitations associated with the task, and thedataset  used  for  this  purpose.
