@@ -6,6 +6,7 @@ antibody responses upto 20 times in titers. Based on the mechanistic understandi
 simulates our body’s antibody responses from a vaccine: [link to code](https://github.com/sunnnymskang/Tau_leap_gillespie_OOP)<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
+[tau-leap Gillespie simulation repository on GitHub](https://github.com/sunnnymskang/Tau_leap_gillespie_OOP)
 
 Vaccination is undoubtedly one of the most effective preventive measures against infectious diseases. 
 By exposing our body to pathogentic materials (Antigens) vaccination induces immune response and establishes memory of 
@@ -21,5 +22,5 @@ affinity and quantity of antibodies are determined. Affinity maturation is a seq
 essence an accelerated darwinian evolution that leads to stronger affinity antibodies through mutation and seletion cycle. 
 In order to understand how dosage kinetics alter affinity maturaiton and to predict the resulting immune response, 
 I developed a explicit tau-leap gillespie simulation with a intent of combining this module with stochastic affinity 
-maturation simulaiton, previously developed by ShenShen Wang. [Repo](https://github.com/sunnnymskang/Tau_leap_gillespie_OOP)
+maturation simulaiton, previously developed by ShenShen Wang. 
 
