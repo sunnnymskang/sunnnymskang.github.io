@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[PDF Version](/assets/documents/IanBertolacci_Public_Resume.pdf)
+[PDF Version](/assets/documents/cv.pdf)
 
 Education
 ======
