@@ -3,7 +3,7 @@ title: "Simulating Antigen dosage and key immune cell kinetics using modified ex
 excerpt: "Throughout my Ph.D. I've studied how vaccine scheduling modulates the antibody titer response.  
 Together with with experimental collaborators, we identified a new cellular mechanism that can potentially amplify   
 antibody responses upto 20 times in titers. Based on the mechanistic understanding, I built a stochastic system that  
-simulates our body’s antibody responses from a vaccine: [link to code](https://github.com/sunnnymskang/Tau_leap_gillespie_OOP)<br/><img src='/images/500x300.png'>"
+simulates our body’s antibody responses from a vaccine: [link to code](https://github.com/sunnnymskang/Tau_leap_gillespie_OOP)"
 collection: portfolio
 ---
 [tau-leap Gillespie simulation repository on GitHub](https://github.com/sunnnymskang/Tau_leap_gillespie_OOP)
