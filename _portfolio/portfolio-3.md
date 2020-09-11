@@ -1,6 +1,6 @@
 ---
 title: "ChillPill"
-excerpt: "A web app that recommends anti-depressants based on patients’ symptoms and the most common side effects from taking pills <br/><img src='/images/500x300.png'>"
+excerpt: "A web app that recommends anti-depressants based on patients’ symptoms and the most common side effects from taking pills. [link to code](https://github.com/sunnnymskang/ChillPillV1)  <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
