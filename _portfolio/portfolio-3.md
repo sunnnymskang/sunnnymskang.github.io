@@ -4,6 +4,7 @@ excerpt: "A web app that recommends anti-depressants based on patients’ sympto
 collection: portfolio
 ---
 [ChillPill repository on GitHub](https://github.com/sunnnymskang/ChillPillV1)
+
 As an Insight fellow, I built ChillPill, a web app that recommends anti-depressants based on patients’ symptoms and 
 the most common side effects from taking pills. Rather than recommending anti-depressants for therapeutic purpose, 
 I aimed for this website to be used so that patients can further consult with their doctors. In summary, I 
