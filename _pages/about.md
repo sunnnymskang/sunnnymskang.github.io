@@ -14,13 +14,10 @@ redirect_from:
 # Hi I’m Sunny 
 <br/>
 I want to build robust, interpretable and fair algorithms to promote human health and social goods.
-I studied computational vaccine design during my Ph.D. during which I applied theories in statistical physics and 
-leveraged stochastic simulation techniques for designing more potent HIV vaccine.
-Currently, I am a senior data scientist at Wayfair and a contributing research scientist at PathCheck foundation.  
-
-
-
-
+I earned my Ph.D. studying computational vaccine design. I applied principles from Statistical Physics and leveraged 
+stochastic simulation techniques to make HIV vaccines more potent.
+Currently, I am a senior data scientist on the Pricing and Algorithms team at Wayfair. In addition, I contribute as 
+a Research Scientist at PathCheck foundation - a MIT-based non-profit tech consortium for COVID-19. 
 
 [//]: # 'A data-driven personal website'
 

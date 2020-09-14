@@ -14,7 +14,7 @@ Education
 ======
 * B.S. in Chemical engineering, Biology(minor) KAIST, 2012
 * M.S. in Chemical engineering practice, MIT, 2016
-* Ph.D Thesis: "Optimizing vaccine dosing kinetics for stronger antibody response" MIT, 20119
+* Ph.D Thesis: "Optimizing vaccine dosing kinetics for stronger antibody response" MIT, 2019
 
 Work experience
 ======
@@ -23,7 +23,7 @@ Work experience
 * Fellow, Insight Data Science
 * Graduate researcher, MIT
 
-Portfolio
+Projects
 ======
   <ul>{% for post in site.portfolio %}
     {% include archive-single-talk-cv.html %}
