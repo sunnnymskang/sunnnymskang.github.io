@@ -6,7 +6,5 @@ three variations of 1D convolutional neural networks that learns the distance be
 collection: portfolio
 ---
 
-<script src="https://gist.github.com/sunnnymskang/d873a1c3568bbc0f3070cfbd2c4f205f.js"></script>
-
-
+<script src="https://gist.github.com/sunnnymskang/760369b3461d685c4e97448b6eb79e14.js"></script>
 
