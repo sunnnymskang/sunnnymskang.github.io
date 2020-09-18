@@ -16,7 +16,7 @@ redirect_from:
 I want to build robust, interpretable and fair algorithms to promote human health and social goods.
 I earned my Ph.D. studying computational vaccine design where I applied principles from Statistical Physics and leveraged 
 stochastic simulation techniques to make HIV vaccines more potent. In the meantime, I interned and consulted at UNDP where I supported team's initiatives
-for reviewing intellectual property laws in low and middle income countries to maximize their access to HIV treatments. I continued my advocacy work
+in reviewing intellectual property laws in low and middle income countries to maximize their access to HIV treatments. I continued my advocacy work
 for access to health care at GAiA - a non-profit at Berkman Klein Center in Harvard. 
 
 Currently, I am a Senior Data Scientist on the Pricing and Algorithms team at [Wayfair](https://tech.wayfair.com/). 
