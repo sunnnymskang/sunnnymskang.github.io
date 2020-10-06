@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[PDF Version](/assets/documents/cv_public.pdf)
+[PDF Version](/assets/documents/cv_public_health.pdf)
 
 Education
 ======
