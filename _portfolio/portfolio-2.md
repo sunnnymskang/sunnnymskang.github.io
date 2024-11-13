@@ -11,7 +11,7 @@ researchers at MIT PathCheck to develop an AI model capable of predicting close 
 Bluetooth signals and other confounding factors. Our model placed third in a competition hosted by the National Institute
 of Standards and Technology (NIST), and we coauthored a paper detailing the model, which was accepted at the Machine
 Learning for Mobile Health Workshop at NeurIPS. The model was implemented in the PathCheck app, which has been adopted
-by governments in Minnesota, Hawaii, Guam, Puerto Rico, Teton County, Wyoming, and Cyprus.
+by governments in Minnesota, Hawaii, Guam, Puerto Rico, Teton County, Wyoming, and Cyprus. [link to code](https://github.com/sunnnymskang/NIST_BLE_challenge) 
 "
 collection: portfolio
 ---

@@ -6,7 +6,7 @@ I was involved in both of the projects: BigBio for curating biomedical datasets 
 BigBio
 NLP models have great potential for automating complex healthcare tasks such as clinical decision support, information extraction, research summarization, and so on.
 To unlock their potential, however, high-quality, domain-specific training datasets are essential. As a core contributor to BIGBIO, I helped build a community library of over 126 biomedical NLP datasets spanning 13 task categories.
-This work addresses the underrepresentation of specialized biomedical data and enables reproducible meta-dataset curation.
+This work addresses the underrepresentation of specialized biomedical data and enables reproducible meta-dataset curation. [link to code](https://github.com/bigscience-workshop/biomedical)
 
 BLOOM
 Our contributions to BIGBIO were instrumental in the training of BLOOM, the largest open-source multilingual language model at the time of release.
