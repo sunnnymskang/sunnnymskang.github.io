@@ -14,12 +14,8 @@ BLOOM performs competitively across diverse benchmarks and represents a signific
 setting a new precedent in the development of Large Language Models."
 collection: portfolio
 ---
-[Big-Bio repository on GitHub](https://github.com/bigscience-workshop/biomedical)
-[Big-Bio follow-up publication in ACL](https://edoc.mdc-berlin.de/id/eprint/22134/1/22134oa.pdf)
-[Big-Bio follow-up publication in Neurips proceedings](https://proceedings.neurips.cc/paper_files/paper/2022/file/a583d2197eafc4afdd41f5b8765555c5-Paper-Datasets_and_Benchmarks.pdf)
-[BLOOM publication at archive](https://inria.hal.science/hal-03850124/)
-
-BIGBIO: A Framework for Data-Centric Biomedical Natural Language Processing
+BIGBIO
+A Framework for Data-Centric Biomedical Natural Language Processing
 Large-scale language modeling and natural language prompting have demonstrated exciting
 capabilities for few and zero shot learning in
 NLP. However, translating these successes to
@@ -30,8 +26,12 @@ popular machine learning frameworks at scale.
 To assess this debt, we crowdsourced curation of datasheets for 167 biomedical datasets.
 We find that only 13% of datasets are available via programmatic access and 30% lack
 any documentation on licensing and permitted reuse. 
+[Big-Bio repository on GitHub](https://github.com/bigscience-workshop/biomedical)
+[Big-Bio follow-up publication in ACL](https://edoc.mdc-berlin.de/id/eprint/22134/1/22134oa.pdf)
+[Big-Bio follow-up publication in Neurips proceedings](https://proceedings.neurips.cc/paper_files/paper/2022/file/a583d2197eafc4afdd41f5b8765555c5-Paper-Datasets_and_Benchmarks.pdf)
 
-BLOOM: A 176B-Parameter Open-Access Multilingual Language Model
+BLOOM
+A 176B-Parameter Open-Access Multilingual Language Model
 Large language models (LLMs) have been shown to be able to perform new tasks based on a few demonstrations or natural language instructions. 
 While these capabilities have led to widespread adoption, most LLMs are developed by resource-rich organizations and are frequently kept 
 from the public. As a step towards democratizing this powerful technology, we present BLOOM, a 176B-parameter open-access language model
@@ -40,3 +40,4 @@ trained on the ROOTS corpus, a dataset comprising hundreds of sources in 46 natu
 We find that BLOOM achieves competitive performance on a wide variety of benchmarks, with stronger results after undergoing multitask 
 prompted finetuning. To facilitate future research and applications using LLMs, we publicly release our models and code under
 the Responsible AI License.
+[BLOOM publication at archive](https://inria.hal.science/hal-03850124/)
